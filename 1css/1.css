@@ -1,4 +1,17 @@
- @media (max-width:800px) {
+*{
+margin:0px;
+ padding:0px;
+ box-sizing:boarder-box;
+ 
+}
+
+
+
+
+
+
+
+@media (max-width:800px) {
 
     .pagechanger{
         height:500px; 
